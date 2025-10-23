@@ -1,0 +1,14 @@
+{
+  "name": "sigeta-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.15.0"
+  },
+  "devDependencies": {
+    "@vercel/node": "^2.0.0"
+  }
+}
